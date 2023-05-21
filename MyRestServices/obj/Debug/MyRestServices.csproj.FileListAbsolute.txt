@@ -1,0 +1,40 @@
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\bin\MyRestServices.dll.config
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\bin\MyRestServices.dll
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\bin\MyRestServices.pdb
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\bin\Newtonsoft.Json.dll
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\bin\Newtonsoft.Json.xml
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\obj\Debug\MyRestServices.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\obj\Debug\MyRestServices.csproj.CopyComplete
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\obj\Debug\MyRestServices.dll
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\obj\Debug\MyRestServices.pdb
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 3\MyService\MyRestServices\obj\Debug\MyRestServices.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\bin\MyRestServices.dll.config
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\bin\MyRestServices.dll
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\bin\MyRestServices.pdb
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\bin\Newtonsoft.Json.dll
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\bin\Newtonsoft.Json.xml
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.AssemblyReference.cache
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.CoreCompileInputs.cache
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.CopyComplete
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.dll
+C:\Users\simon\OneDrive\Desktop\CSE 445\homework 5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.pdb
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\bin\MyRestServices.dll.config
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\bin\MyRestServices.dll
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\bin\MyRestServices.pdb
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\bin\Newtonsoft.Json.dll
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\bin\Newtonsoft.Json.xml
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.AssemblyReference.cache
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.CopyComplete
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.dll
+C:\Users\Simon\Downloads\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.pdb
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\bin\MyRestServices.dll.config
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\bin\MyRestServices.dll
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\bin\MyRestServices.pdb
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\bin\Newtonsoft.Json.dll
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\bin\Newtonsoft.Json.xml
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.AssemblyReference.cache
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.CoreCompileInputs.cache
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.csproj.CopyComplete
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.dll
+C:\Users\Simon\Desktop\HW5\MyRestServices\MyRestServices\obj\Debug\MyRestServices.pdb
